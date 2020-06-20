@@ -1,9 +1,12 @@
 🍉 本项目已打包，查看效果请单独下载dist文件夹，使用Chrome + iPhone X 模拟浏览更佳 🍉
+ <br>
+ <br>
  
  
  ![image](http://m.qpic.cn/psc?/V11E9jQr163cUb/UVjGSBgujG6XwMFsQlvXRYXplMsRO1TlpXlPZtf5cMWqGpYXp4iD9qrsV674uduxBnf.TS0OC31XlnPWAo14qQ!!/b&bo=ygWAAlsHLQMDCRM!&rf=viewer_4)
 
-
+ <br>
+ <br>
 ### 面试作业：
 
 >#### 学习VUE框架和UI库，调用提供的接口数据，编写淘宝H5页面，包括首页、商品详情页、我的淘宝。
@@ -14,7 +17,8 @@
 >- 本项目对全部组件进行了完整而精细的注释，即使是前端初学者也可以迅速通过项目结构和注释快速了解VUE框架开发模式，另一方面，便于本人日后对此项目的完善，日后时间充沛会对本项目进行深层次地开发完善。
 
 
-
+ <br>
+ <br>
 ### 项目详情：
 
 >#### 技术选型：
@@ -58,7 +62,8 @@
 
 
 
-
+ <br>
+ <br>
 ### 运行方法：
 
 > - 查看效果
@@ -69,5 +74,6 @@
 
 
 
-
+ <br>
+ <br>
 #### **🐕感谢您的阅读🐕**
