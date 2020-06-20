@@ -1,5 +1,8 @@
 🍉 本项目已打包，查看效果请单独下载dist文件夹，使用Chrome + iPhone X 模拟浏览更佳 🍉
-
+ 
+ 
+ ![image]
+(http://m.qpic.cn/psc?/V11E9jQr163cUb/UVjGSBgujG6XwMFsQlvXRYXplMsRO1TlpXlPZtf5cMWqGpYXp4iD9qrsV674uduxBnf.TS0OC31XlnPWAo14qQ!!/b&bo=ygWAAlsHLQMDCRM!&rf=viewer_4)
 
 
 ### 面试作业：
@@ -56,6 +59,7 @@
 
 
 
+
 ### 运行方法：
 
 > - 查看效果
@@ -63,6 +67,7 @@
 > - 运行项目
 >   - 下载依赖  npm install 
 >   - 启动项目  npm start
+
 
 
 
