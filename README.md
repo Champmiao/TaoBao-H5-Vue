@@ -1,4 +1,4 @@
-🍉 本项目已打包，查看效果请单独下载dist文件夹，使用Chrome + iPhone X 模拟浏览更佳 🍉
+🍉 本项目已打包，查看效果请单独下载dist文件夹，使用 Chrome 调试工具 + iPhoneX 模拟浏览更佳 🍉
  <br>
  <br>
  
