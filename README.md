@@ -4,9 +4,10 @@
  
  
  ![image](http://m.qpic.cn/psc?/V11E9jQr163cUb/UVjGSBgujG6XwMFsQlvXRYXplMsRO1TlpXlPZtf5cMWqGpYXp4iD9qrsV674uduxBnf.TS0OC31XlnPWAo14qQ!!/b&bo=ygWAAlsHLQMDCRM!&rf=viewer_4)
+ <br>
+ <br>
 
- <br>
- <br>
+
 ### 面试作业：
 
 >#### 学习VUE框架和UI库，调用提供的接口数据，编写淘宝H5页面，包括首页、商品详情页、我的淘宝。
@@ -19,6 +20,8 @@
 
  <br>
  <br>
+ 
+ 
 ### 项目详情：
 
 >#### 技术选型：
@@ -60,10 +63,10 @@
 >  - 本项目在淘宝移动端触屏版（非App）的基础上进行了优化，将所有页面进行了针对性的rem布局，不会出现官网存在的扩大屏幕尺寸后各组件宽度不统一、非居中对齐等缺点。
 >  - 页面在rem适配上表现较好，可适配各种移动端设备，同时支持电脑端查看，在不使用chrome调试工具模拟移动设备的情况下，界面最大宽度750px防止元素过大，最小宽度320px防止继续缩放文字排版失真，基本上做到了完美适配PC、平板、手机三端用户。
 
-
-
  <br>
  <br>
+
+
 ### 运行方法：
 
 > - 查看效果
@@ -72,8 +75,8 @@
 >   - 下载依赖  npm install 
 >   - 启动项目  npm start
 
-
-
  <br>
  <br>
+
+
 #### **🐕感谢您的阅读🐕**
